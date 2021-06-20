@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cytusbox
+- 👋 Hi, I’m cytusbox/cytebox/xob
 - 👀 I’m interested in music games
 - 🌱 I’m currently playing sound voltex
 - 💞️ I’m looking to collaborate on machine learning
